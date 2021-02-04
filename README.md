@@ -26,7 +26,7 @@ After
 - mv ./vsc/code-server ./vsc/code
 
 
-##now just write code
-##and it's open localhost:8080
-##in your browser
+# now just write code
+# and it's open localhost:8080
+# in your browser
 
